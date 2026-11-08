@@ -28,7 +28,7 @@ The objective is to provide a visual overview of sales performance through key p
 
 📊 Dashboard Preview
 
-"Sales Performance Dashboard" (Sales performance dashboard.png)
+"Sales Performance Dashboard"(Sales performance dashboard.png)
 
 🔍 Dashboard Components
 
