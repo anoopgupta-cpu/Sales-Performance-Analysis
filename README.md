@@ -39,6 +39,25 @@ The objective is to provide a visual overview of sales performance through key p
 5. Country-wise Revenue Analysis.
 6. Key Business Insights.
 
+
+##Business Insights
+
+The dashboard has provided information that shows:
+
+1) Revenue = Total revenue was approx. £37.81K from 87 orders.
+2) Customers = 73 different customers were used.
+3) AOV = Approx. £434.61 average order value.
+4) UK = The UK was the highest revenue generating country.
+5) Products = The Black Record Cover Frame generated the highest amount of revenue.
+
+
+##Business Recommendations
+
+Look at revenue from different geographic regions.
+Look at product level sales.
+Look at average order value and look at customer buying patterns.
+Look into ways to increase sales and improve customer retention.
+
 💡 Key Learnings
 
 - Building interactive dashboards in Power BI.
